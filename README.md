@@ -1,6 +1,10 @@
 # Solucao-Acido-Base
 Projeto que desenvolvi para auxiliar alunos da graduação de química na fabricação de baterias. O projeto consiste no uso de bombas e botões. Conforme o botão pressionado a bomba correspondente ficará acionada por determinado tempo. 
 
+Cada bomba é responsavel por despejar a quantidade desejada de acido ou base. Nesse projeto temos quatro bombas (duas para acido e duas para base). 
+
+Com as possiveis alterações a quantidade de bombas e botões é praticamente infinita (depende do microcontrolador). 
+
 ## Nesse projeto aprendi:
 - Definição de flags
 - Uso de temporizadores (millis no caso do arduino)
